@@ -1,4 +1,4 @@
-# FLIPMART-SALES-DASHBOARD
+# FLIPMART-SALES-DASHBOARD (POWER BI)
 This project is an interactive sales analytics dashboard built using Microsoft Power BI to analyze and visualize Flipkart sales performance. The dashboard provides insights into sales trends, profit distribution, shipping modes, product categories, and transaction details through interactive visualizations.
 The goal of this project is to demonstrate how data analytics and visualization can help businesses understand their sales performance and make data-driven decisions.
 
