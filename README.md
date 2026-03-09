@@ -102,4 +102,4 @@ DAX (Data Analysis Expressions)
 Business Intelligence
 
 #OUTPUT
-![image](https://github.com/username/repo/assets/12345/image.png)
+![image](https://github.com/abhis2506/FLIPMART-SALES-DASHBOARD/blob/main/flipmart%20dashboard%20sale1.jpg)
